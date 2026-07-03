@@ -2,7 +2,7 @@
 
 <p>
 A 13-year-old student from Taiwan trying not to give up coding.
-My coding skills aren't great yet, but I'm always learning.
+My coding skills SUCK.
 Hopefully I'll improve before Claude replaces me.
 </p>
 
