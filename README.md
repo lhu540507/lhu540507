@@ -4,9 +4,13 @@
 A 14-year-old student from Taiwan and yes jobless-final-boss i know
   
 Currently diving deep into the Linux kernel, My coding skills still <strong> SUCK </strong>, but hopefully I'll compile successfully before Claude replaces me.
+
+recently im learning the GUP-fast lockless shi
   
 I don't really push much here.
 This account is basically dead.
+most of my repo are private , oh im sorry  , not most of them its all of them
+my repos are mostly about linux kernel notes and some toys
 </p>
 
 <h2> Languages i use</h2>
