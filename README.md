@@ -13,7 +13,7 @@ most of my repo are private , oh im sorry  , not most of them its all of them
 my repos are mostly about linux kernel notes and some toys
 </p>
 
-<h2> Languages i use</h2>
+<h2> Languages and tools i use</h2>
 
 <p>
 you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw
