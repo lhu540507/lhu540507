@@ -10,7 +10,7 @@ recently im learning the GUP-fast lockless shi
 I don't really push much here.
 This account is basically dead.
 most of my repo are private , oh im sorry  , not most of them its all of them
-my repos are mostly about linux kernel notes and some toys
+my repos are mostly about linux kernel notes and some toys (update:now i push stupid things here)
 </p>
 
 <h2> Languages and tools i use</h2>
@@ -23,7 +23,8 @@ you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw
 <h2> Recent Posts</h2>
 
 <ul>
-  <li>well i got a WM but its even worse than chrome's memory management(not joking btw)</li>
+  <li>well i got my own WM (its name is flux)but its even worse than chrome's memory management(not joking btw)</li>
+  (update:im currently back on ts project again)
 </ul>
 
 
