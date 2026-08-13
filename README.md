@@ -16,7 +16,7 @@ my repos are mostly about linux kernel notes and some toys (update:now i push st
 <h2> Languages and tools i use</h2>
 
 <p>
-you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw
+you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw☝️🤓
   :wq
 </p>
 
@@ -25,6 +25,8 @@ you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw
 <ul>
   <li>well i got my own WM (its name is flux)but its even worse than chrome's memory management(not joking btw)</li>
   (update:im currently back on ts project again)
+
+  <li>alright no more profile updates for now ,i'll put some actual projects here once i make something that doesn't suck😭💔🥀 (working on it)
 </ul>
 
 
