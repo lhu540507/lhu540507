@@ -26,7 +26,7 @@ you know what, im just gonna put C/C++ and Rust here, oh wait i use cachyos btw�
   <li>well i got my own WM (its name is flux)but its even worse than chrome's memory management(not joking btw)</li>
   (update:im currently back on ts project again)
 
-  <li>alright no more profile updates for now ,i'll put some actual projects here once i make something that doesn't suck😭💔🥀 (working on it)
+  <li>alright no more profile updates for now ,i'll put some actual projects here once i make something that doesn't suck😭💔🥀 (working on it) (hell nah ts too hard im just gonna look at random projects and analyze them)
 </ul>
 
 
